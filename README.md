@@ -55,6 +55,8 @@ Followed UDP stream to observe payloads of repeated TXT queries.
 - Block or sinkhole suspicious domains at the resolver.
 - Escalate anomalies to Tier 2 SOC for deeper investigation.
 
+## MITRE Mapping
+- T1071 — Application Layer Protocol (DNS)
 
 ## ✅ Notes
 - attacker-example.test was used as a safe placeholder domain.
